@@ -1,0 +1,104 @@
+//These are objects in my toolbox, each with three otherwise-undefined arrays.
+
+var items =
+	{
+		"sheet metal screws":
+		{
+			descriptor1: 4,
+			descriptor2: "old",
+			descriptor3: "from laundry vent",
+			manufacturer: "Craftsman",
+			source: "from laundry vent",
+			
+		},
+	
+
+		"11-pc 1/4-inch drive metric set":
+		{
+			descriptor1: "incomplete",
+			descriptor2: "missing extender",
+			manufacturer: "Craftsman",
+			source: "shelf in garage",
+		},
+		
+		"9 1/2 inch arc joint pliers":
+		{
+			descriptor1: "heavy",
+			descriptor2: "black handle",
+			manufacturer: "Craftsman",
+			source: "large toolbox in garage",
+		},
+		
+		"1 1/2 inch painters' tape":
+		{
+			descriptor1: "blue",
+			manufacturer: "Blue Hawk",
+			source: "shelf in garage",
+		},
+		
+		"twine":
+		{
+			descriptor1: "white",
+			source: "kitchen cabinet",
+		},
+		
+		"chopstick":
+		{
+			descriptor1: "bamboo",
+			descriptor2: "not disposable",
+			descriptor3: "possible plant stake",
+		},
+		
+		"measuring tape":
+		{
+			descriptor1: "metal",
+			descriptor2: "25 ft",
+			manufacturer: "KMC",
+			source: "kitchen cabinet",
+			
+		},
+		
+		"10-pc socket wrench set":
+		{
+			descriptor1: "3/8 inch drive",
+			descriptor2: "metric",
+			descriptor3: "contains extender bought separately",
+			manufacturer: "Craftsman",
+			source: "bought new at OSH",
+			
+		},
+		
+		"4-in-1 screwdriver":
+		{
+			descriptor1: "missing one reversing bit",
+			descriptor2: "clear handle",
+			manufacturer: "Craftsman",
+			source: "Gary's trunk",
+			
+		},
+		
+		"thread sealant tape":
+		{
+			descriptor1: "1/2 inch x 520 inches",
+			descriptor2: "blue and white",
+			source: "bought new at OSH",
+		},
+		
+		"screwdriver":
+		{
+			descriptor1: "wooden handle",
+			descriptor2: "small",
+			descriptor3: "flat head",
+			
+		},
+		
+		"box cutter":
+		{
+			descriptor1: "yellow",
+			source: "shelf in garage",
+		},
+		
+
+	
+	
+	};
